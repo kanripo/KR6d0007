@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:40.404787
+#+DATE: 2015-08-30 19:47:41.435460
 #+TITLE: 法華玄義釋籤
 #+PROPERTY: CBETA_ID T33n1717
 #+PROPERTY: ID KR6d0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1717
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6d0007_T_016-0927b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T@RIGUANG
+#+PROPERTY: LASTPB <pb:KR6d0007_T_016-0927b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 法華玄義釋籤卷第十六¶
+法華玄義釋籤卷第十六¶
 ¶
 天台沙門湛然述¶
 

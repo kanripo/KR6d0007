@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:40.349765
+#+DATE: 2015-08-30 19:47:41.370793
 #+TITLE: 法華玄義釋籤
 #+PROPERTY: CBETA_ID T33n1717
 #+PROPERTY: ID KR6d0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1717
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@RIGUANG
 #+PROPERTY: LASTPB <pb:KR6d0007_T_014-0913b> ¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 法華玄義釋籤卷第十四¶
+法華玄義釋籤卷第十四¶
 ¶
 天台沙門湛然述¶
 
@@ -249,8 +248,7 @@
 七益之相不異於變故云如前。又大小去
 <pb:KR6d0007_T_014-0916a>¶
 別明十益中二。先約諸教辨因果二益。次¶
-別對諸教以明八益。初因果二。先釋次結。¶
-初文二。先引他經明因果益。次又佛下此經¶
+別對諸教以明八益。初因果二。先釋次結。初文二。先引他經明因果益。次又佛下此經¶
 明果益。久居黑暗而今大明故屬果益。三¶
 辨依教通別。大小乘中皆照六道故云通¶
 也。次別論下以聲聞去別對諸教故云別¶

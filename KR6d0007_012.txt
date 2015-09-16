@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:40.284591
+#+DATE: 2015-08-30 19:47:41.313931
 #+TITLE: 法華玄義釋籤
 #+PROPERTY: CBETA_ID T33n1717
 #+PROPERTY: ID KR6d0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1717
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@RIGUANG
 #+PROPERTY: LASTPB <pb:KR6d0007_T_012-0897c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 法華玄義釋籤卷第十二¶
+法華玄義釋籤卷第十二¶
 ¶
 天台沙門湛然述¶
 
@@ -597,8 +596,7 @@
 今隨文便於此列之。亦如明位中以¶
 開寄在圓位門中列之。但從義正分章¶
 無定。就釋中二。先判麁妙。次結。初文二。¶
-先機。次應機中二。先地獄。次餘九例。初文¶
-先判麁妙中三。初立具十。次阿鼻下釋疑。¶
+先機。次應機中二。先地獄。次餘九例。初文先判麁妙中三。初立具十。次阿鼻下釋疑。¶
 三即判下正判。獄中十界則九麁一妙。次麁¶
 機下辨機生熟召應不同。先麁。次妙。慈童¶
 女緣如止觀第五記。發菩提心名為妙機。¶

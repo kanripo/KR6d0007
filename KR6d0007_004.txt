@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:40.028697
+#+DATE: 2015-08-30 19:47:41.048097
 #+TITLE: 法華玄義釋籤
 #+PROPERTY: CBETA_ID T33n1717
 #+PROPERTY: ID KR6d0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1717
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@RIGUANG
 #+PROPERTY: LASTPB <pb:KR6d0007_T_004-0838b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 法華玄義釋籤卷第四¶
+法華玄義釋籤卷第四¶
 ¶
 天台沙門湛然述¶
 
@@ -52,7 +51,7 @@
 委明十境十乘。若論觀境則不如止觀委¶
 悉。若以體位用三而判麁妙則此文顯要。¶
 如其體等不廣高長不名為妙非今經觀。¶
-若得此意法華三昧於茲現矣。一經樞鍵於
+若得此意法華三味於茲現矣。一經樞鍵於
 <pb:KR6d0007_T_004-0839a>¶
 茲立矣。一代教旨於茲攢矣。佛出世意於¶
 茲辦矣。十法成觀之精髓矣。十不思議之導¶

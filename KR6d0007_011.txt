@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:40.253972
+#+DATE: 2015-08-30 19:47:41.290358
 #+TITLE: 法華玄義釋籤
 #+PROPERTY: CBETA_ID T33n1717
 #+PROPERTY: ID KR6d0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1717
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@RIGUANG
 #+PROPERTY: LASTPB <pb:KR6d0007_T_011-0891a> 
 #+PROPERTY: JUAN 11
 ¶
-
- 法華玄義釋籤卷第十一¶
+法華玄義釋籤卷第十一¶
 ¶
 天台沙門湛然述¶
 
@@ -338,8 +337,7 @@
 教。第四句亦通諸菩薩。不必在密。次廢智¶
 四句中。初句者。亦通三菩薩。次不廢智更¶
 脩智中云又次第習者是也者。凡云廢者。¶
-若法華前或廢權位入權入實。廢權入¶
-實。廢高歸下。若次第脩習者。從初發心。本
+若法華前或廢權位入權入實。廢權入實。廢高歸下。若次第脩習者。從初發心。本
 <pb:KR6d0007_T_011-0894c>¶
 擬次第。自淺階深。何待廢淺而入深也。¶
 第三句者。三教菩薩闕之。亦據法華前故。¶

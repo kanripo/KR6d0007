@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:47:40.219756
+#+DATE: 2015-08-30 19:47:41.261092
 #+TITLE: 法華玄義釋籤
 #+PROPERTY: CBETA_ID T33n1717
 #+PROPERTY: ID KR6d0007
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 33, No. 1717
 #+PROPERTY: VOL 33
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@RIGUANG
 #+PROPERTY: LASTPB <pb:KR6d0007_T_010-0883b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 法華玄義釋籤卷第十¶
+法華玄義釋籤卷第十¶
 ¶
 天台沙門湛然述¶
 
@@ -171,7 +170,7 @@
 爾然也。此生之中必得不疑。猶如勝人平地¶
 顛墜四顧遠望不有他人見我倒不即能¶
 自起。極至臨終亦得無學故也。得滅定¶
-人因中既修性共念處。至果時但名俱解脫¶
+人因中即修性共念處。至果時但名俱解脫¶
 人。以未修緣念終非無疑解脫也。盡智
 <pb:KR6d0007_T_010-0885b>¶
 者。謂見苦已斷乃至道亦如是。無生智者¶
